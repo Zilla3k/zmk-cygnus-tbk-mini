@@ -20,8 +20,8 @@
 ---
 include:
   - board: nice_nano//zmk
-    shield: tbk_left #nice_view_adapter nice_view
+    shield: cygnus_left #nice_view_adapter nice_view
   - board: nice_nano//zmk
-    shield: tbk_right #nice_view_adapter nice_view
+    shield: cygnus_right #nice_view_adapter nice_view
   - board: nice_nano//zmk
     shield: settings_reset
