@@ -105,5 +105,14 @@
                                             &trans        &trans        &trans            &trans  &trans          &trans
             >;
         };
+        reserved_1 { status = "reserved"; };
+        reserved_2 { status = "reserved"; };
+        reserved_3 { status = "reserved"; };
+        reserved_4 { status = "reserved"; };
+        reserved_5 { status = "reserved"; };
+        reserved_6 { status = "reserved"; };
+        reserved_7 { status = "reserved"; };
+        reserved_8 { status = "reserved"; };
+        reserved_9 { status = "reserved"; };
     };
 };
